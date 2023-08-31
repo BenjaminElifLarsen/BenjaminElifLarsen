@@ -1,7 +1,6 @@
 - Hi, I’m, for now, Benjamin Elif Larsen as I am transgendered, in the early phase, and not got a name changed yet.
 - I’m interested in learning all sort of stuff.
 - I’m currently learning domain driven design, CQRS, event sourcing, handling of events and commands via busses and handlers, sagas and a lot more. 
-- I am to be reached using the email on my webpage https://elif-portfolio.dk/ Do note that currently the webpage is only in Danish, but an English version is being worked on.
 - Currently, in some kind of internship, which means I do not work a lot on personal code.
 
 <!---
